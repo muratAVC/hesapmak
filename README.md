@@ -1,0 +1,2 @@
+# hesapmak
+www.patika.dev
